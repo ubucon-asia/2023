@@ -1,0 +1,18 @@
+{{ define "title"}} {{ .Title}} {{end}}
+{{ define "header"}} {{ partial "header" .}} {{end}}
+{{ define "main"}}
+<main>
+    <section class="p-strip--suru">
+        <div class="row">
+            <h2>{{.Title}}</h2>
+            {{if .Params.description }}<p>{{.Params.description}}</p>{{end}}
+        </div>
+      </section>
+      <section class="p-strip">
+        <div class="row">
+          {{ .Content }}
+        </div>
+      </section>
+</main>
+
+{{end}}

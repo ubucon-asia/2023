@@ -1,0 +1,128 @@
+[learn_more]
+other = "Pelajari lebih lanjut"
+[featured] 
+other = "Sesi unggulan"
+[all_sessions] 
+other = "Semua sesi"
+[more_sessions]
+other = "Sesi lainnya"
+[sponsors] 
+other = "Sponsor"
+[more_sponsors]
+other = "Sponsor lainnya"
+[become_sponsor]
+other = "Menjadi Sponsor"
+[about]
+other = "Tentang"
+[news]
+other = "Berita"
+[sessions]
+other = "Sesi"
+[ical_add]
+other = "Tambah ke kalender (berkas *.ics)"
+[ical_subscribe]
+other = "Berlangganan ke kalender (webcal)"
+[ical]
+other = "Kalender jadwal sesi"
+[register_now]
+other = "Daftar sekarang"
+[attendee]
+other = "Peserta"
+[submit_proposal]
+other = "Submit proposal"
+[host_communities]
+other = "Host Komunitas"
+[more_hosts]
+other = "Host Komunitas Lainnya"
+[ubuntu_locos]
+other = "Komunitas Lokal Ubuntu"
+[other_foss]
+other = "Komunitas FOSS Lainnya"
+[diamond_sp]
+other = "Sponsor Berlian"
+[gold_sp]
+other = "Sponsor Emas"
+[silver_sp]
+other = "Sponsor Perak"
+[bronze_sp]
+other = "Sponsor Perunggu"
+[supporter_sp]
+other = "Sponsor Pendukung"
+[infra_sp]
+other = "Sponsor Infrastruktur Acara"
+[record_sp]
+other = "Sponsor Perekaman Video"
+[dinner_sp]
+other = "Conference Dinner Sponsor"
+[venue_sp]
+other = "Venue Sponsors"
+[partner_cm]
+other = "Community Partner"
+[name]
+other = "Nama"
+[donated_at]
+other = "Membeli tiket donasi di"
+[type]
+other = "Jenis"
+[title]
+other = "Judul"
+[language]
+other = "Bahasa"
+[speakers]
+other = "Pembicara"
+[session_duration]
+other = "Session duration"
+[details_later]
+other = "Details will be available later"
+[search]
+other = "Search"
+[menu]
+other = "Menu"
+[close_menu]
+other = "Close menu"
+[sponsor_promo_image]
+other = "Get sponsor promotion image"
+[last_update]
+other = "Last update"
+[privacy_policy]
+other = "Privacy policy"
+[tickets]
+other = "Get tickets"
+[gov_partners]
+other = "Government partners"
+[session_promo_image]
+other = "Get session promotion image"
+[cat_other]
+other = "Other"
+[cat_desktop]
+other = "Desktop"
+[cat_cloud]
+other = "Cloud and Infrastructure "
+[cat_wsl]
+other = "Windows Subsystem for Linux (WSL)"
+[cat_l10n]
+other = "Localizations, Internationalizations, and Accessibility"
+[cat_iot]
+other = "IoT, Embedded, Robotics, Appliances"
+[cat_packaging]
+other = "Packaging"
+[cat_docs]
+other = "Documentations, QA and Bug triage"
+[cat_sec]
+other = "Security, Compliance and Kernel"
+[cat_data]
+other = "Data and AI"
+[cat_content]
+other = "Content and Design"
+[cat_community]
+other = "Community, Diversity, Local Outreach and Social Context"
+
+[room_intlroom]
+other = "Intl room"
+[room_mid]
+other = "Midsize room 2"
+[room_large]
+other = "Large room"
+
+[join_online]
+other = "Join online"

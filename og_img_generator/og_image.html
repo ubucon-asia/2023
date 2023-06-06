@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+            @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR');
+
+            body {
+                font-family: 'Ubuntu', 'Noto Sans KR', sans-serif;
+                /* background-image: url('$background_image'); */
+                background-image: url('$background_image');
+            }
+
+            .main {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                justify-content: center;
+                color: white;
+            }
+
+            .component {
+                margin: 20px;
+            }
+
+            span.title {
+                font-size: 3.5em;
+                text-align: center;
+            }
+
+            span.description {
+                font-size: 2em;
+                text-align: center;
+            }
+
+            img.component {
+                max-height: 50vh;
+                max-width: 70vw;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="main">
+            <img src="$event_logo_path" class="component">
+            <span class="component title">$title</span>
+            <span class="component description">$description</span>
+        </div>
+        <script>
+            window.onload = function () {
+                window.status = "ready_to_print";
+            }
+        </script>
+    </body>
+</html>

@@ -1,0 +1,128 @@
+[learn_more]
+other = "더 알아보기"
+[featured] 
+other = "주요 세션"
+[all_sessions] 
+other = "모든 세션"
+[more_sessions]
+other = "다른 세션 더 보기"
+[sponsors] 
+other = "후원사"
+[become_sponsor]
+other = "후원사로 참여하기"
+[more_sponsors]
+other = "다른 후원사 더 보기"
+[about]
+other = "소개"
+[news]
+other = "소식"
+[sessions]
+other = "세션"
+[ical_add]
+other = "캘린더에 저장(*.ics 파일)"
+[ical_subscribe]
+other = "캘린더 구독(webcal)"
+[ical]
+other = "세션 일정 캘린더"
+[register_now]
+other = "지금 등록"
+[attendee]
+other = "참석자"
+[submit_proposal]
+other = "발표 제안서 제출하기"
+[host_communities]
+other = "주최 커뮤니티"
+[more_hosts]
+other = "다른 주최 커뮤니티 더 보기"
+[ubuntu_locos]
+other = " 우분투 로컬 커뮤니티"
+[other_foss]
+other = "다른 자유-오픈소스 커뮤니티"
+[diamond_sp]
+other = "다이아몬드 후원사"
+[gold_sp]
+other = "골드 후원사"
+[silver_sp]
+other = "실버 후원사"
+[bronze_sp]
+other = "브론즈 후원사"
+[supporter_sp]
+other = "서포터 후원사"
+[infra_sp]
+other = "행사 인프라 후원사"
+[record_sp]
+other = "영상 촬영 후원사"
+[dinner_sp]
+other = "저녁 만찬 후원사"
+[venue_sp]
+other = "장소 협찬"
+[partner_cm]
+other = "커뮤니티 파트너"
+[name]
+other = "이름"
+[donated_at]
+other = "후원 티켓 구입 일시"
+[type]
+other = "유형"
+[title]
+other = "제목"
+[language]
+other = "언어"
+[speakers]
+other = "연사"
+[session_duration]
+other = "세션 시간"
+[details_later]
+other = "세부사항은 추후 공지됩니다."
+[search]
+other = "검색"
+[menu]
+other = "메뉴"
+[close_menu]
+other = "메뉴 닫기"
+[sponsor_promo_image]
+other = "후원사 홍보용 이미지 받기"
+[last_update]
+other = "최근 업데이트"
+[privacy_policy]
+other = "개인정보 처리방침"
+[tickets]
+other = "티켓 구입"
+[gov_partners]
+other = "정부 기관"
+[session_promo_image]
+other = "세션 홍보용 이미지 받기"
+[cat_other]
+other = "기타"
+[cat_desktop]
+other = "데스크탑"
+[cat_cloud]
+other = "클라우드와 인프라"
+[cat_wsl]
+other = "Linux용 Windows 하위시스템 (WSL)"
+[cat_l10n]
+other = "지역화, 국제화 및 접근성"
+[cat_iot]
+other = "사물인터넷, 임베디드, 로보틱스, 가전"
+[cat_packaging]
+other = "패키징"
+[cat_docs]
+other = "문서화, 품질 관리 및 버그 분류"
+[cat_sec]
+other = "보안, 규정준수 및 커널"
+[cat_data]
+other = "데이터와 인공지능"
+[cat_content]
+other = "컨텐츠와 디지인"
+[cat_community]
+other = "커뮤니티, 다양성, 지역 사회 협력과 사회적 관점"
+
+[room_intlroom]
+other = "국제회의실"
+[room_mid]
+other = "중회의실2"
+[room_large]
+other = "대회의실"
+
+[join_online]
+other = "온라인 참여"

@@ -1,0 +1,68 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href='{{ "/css/vanilla.css" | relURL }}' />
+    <link rel="stylesheet" href='{{ "/css/ubuconasia.css" | relURL }}' />
+    <link rel="apple-touch-icon" sizes="180x180" href='{{ "/images/favicon/apple-touch-icon.png" | relURL }}'>
+    <link rel="icon" type="image/png" sizes="32x32" href='{{ "/images/favicon/favicon-32x32.png" | relURL }}'>
+    <link rel="icon" type="image/png" sizes="16x16" href='{{ "/images/favicon/favicon-16x16.png" | relURL }}'>
+
+    <!-- Title Meta -->
+    <title itemprop="name">{{ .Title }} | {{ .Site.Title }}</title>
+    <meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    
+    {{- partial "og_image_layout.html" . -}}
+    {{- partial "og_image_meta.html" . -}}
+    {{- partial "sponsor_og_image_meta.html" . -}}
+    {{- partial "session_og_image_meta.html" . -}}
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- OGP card -->
+    <meta property="og:image" content='{{.Permalink}}index.html.jpg' />
+    <meta property="og:image:secure_url" content='{{.Permalink}}index.html.jpg' />
+    <!-- Twitter card -->
+    <meta name="twitter:image" content='{{.Permalink}}index.html.jpg' />
+
+
+    <!-- Description Meta  -->
+    <meta name="description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+    <meta itemprop="description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+    <meta property="og:og:description"
+        content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+
+    <meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
+    <meta name="twitter:description" content="{{if .Params.description }}{{ .Params.description }}{{else if .Content }}{{.Summary}}{{else}}{{ .Site.Params.description }}{{end}}" />
+
+    <!-- URL Meta  -->
+    <!--    <base href="{{ .Permalink }}">-->
+    <link rel="canonical" href="{{ .Permalink }}" itemprop="url" />
+    <meta name="url" content="{{ .Permalink }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+
+    <!-- Locale Meta  -->
+    <meta property="og:locale" content="{{ .Language.Lang }}">
+    <meta name="language" content="{{ .Language.LanguageName }}">
+    {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+    {{ end }}
+
+    <!-- Redirect to external website -->
+    {{ if .Params.externalRedirect }}
+    <meta http-equiv="refresh" content="0; url={{.Params.externalRedirect}}">
+    </meta>
+    {{ end }}
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@event-calendar/build/event-calendar.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@event-calendar/build/event-calendar.min.js"></script>
+    <!-- Full Calendar UI Library -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.9.0/main.min.js"></script>
+
+    <!-- Fuse search -->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    {{- partial "google_search_event_integration.html" . -}}
+</head>

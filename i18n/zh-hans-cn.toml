@@ -1,0 +1,87 @@
+[learn_more]
+other = "了解更多"
+[featured] 
+other = "特色会议"
+[all_sessions] 
+other = "所有会议"
+[more_sessions]
+other = "会议细节"
+[sponsors] 
+other = "赞助商"
+[become_sponsor]
+other = "注册成为赞助商"
+[more_sponsors]
+other = "关于赞助商"
+[about]
+other = "关于 Ubucon Asia"
+[news]
+other = "新闻"
+[sessions]
+other = "会议"
+[ical_add]
+other = "订阅日历（ics 文件）"
+[ical_subscribe]
+other = "订阅日历 (webcal)"
+[ical]
+other = "会议日程表"
+[session_duration]
+other = "会议时长"
+[details_later]
+other = "详情将在稍后公布"
+[dinner_sp]
+other = "Conference Dinner Sponsor"
+[venue_sp]
+other = "场馆赞助商"
+[search]
+other = "搜索"
+[menu]
+other = "菜单"
+[close_menu]
+other = "关闭菜单"
+[submit_proposal]
+other = "Submit proposal"
+[sponsor_promo_image]
+other = "Get sponsor promotion image"
+[last_update]
+other = "Last update"
+[privacy_policy]
+other = "Privacy policy"
+[tickets]
+other = "Get tickets"
+[gov_partners]
+other = "Government partners"
+[session_promo_image]
+other = "Get session promotion image"
+[cat_other]
+other = "Other"
+[cat_desktop]
+other = "Desktop"
+[cat_cloud]
+other = "Cloud and Infrastructure "
+[cat_wsl]
+other = "Windows Subsystem for Linux (WSL)"
+[cat_l10n]
+other = "Localizations, Internationalizations, and Accessibility"
+[cat_iot]
+other = "IoT, Embedded, Robotics, Appliances"
+[cat_packaging]
+other = "Packaging"
+[cat_docs]
+other = "Documentations, QA and Bug triage"
+[cat_sec]
+other = "Security, Compliance and Kernel"
+[cat_data]
+other = "Data and AI"
+[cat_content]
+other = "Content and Design"
+[cat_community]
+other = "Community, Diversity, Local Outreach and Social Context"
+[room_intlroom]
+other = "Intl room"
+[room_mid]
+other = "Midsize room 2"
+[room_large]
+other = "Large room"
+
+[join_online]
+other = "Join online"

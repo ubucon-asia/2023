@@ -1,0 +1,89 @@
+{{ define "main" }}
+<main>
+  <section class="p-strip--suru">
+    <div class="row">
+      <h2>{{.Title}}</h2>
+      {{ with .OutputFormats.Get "Calendar" -}}
+      <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}"><button>{{ i18n
+          "ical_subscribe" }}</button></a>
+      <a rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .RelPermalink | safeURL }}"><button>{{ i18n "ical_add"
+          }}</button></a>
+      {{- end }}
+    </div>
+  </section>
+  <section class="p-strip">
+    <div class="row">
+      <div id="schedule_container"></div>
+    </div>
+  </section>
+</main>
+{{ $pages := .Site.Pages }}
+{{ range .Site.Home.Translations }}
+{{ $pages = $pages | lang.Merge .Site.Pages }}
+{{ end }}
+{{ $pages = (where $pages "Section" "sessions") }}
+<script>
+  function convertTimeToLocalTZ(date) {
+    let toConvert = new Date(date);
+    let currentTZ = new window.Intl.DateTimeFormat().resolvedOptions().timeZone;
+    return toConvert.toLocaleTimeString('en-US', { hour12: false, timeZone: currentTZ });
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+
+    let categoryColors = [
+      "grey",//0: Other
+      "orange",//1: Desktop 데스크탑
+      "purple",//2: Cloud and Infrastructure 클라우드와 인프라
+      "skyblue",//3: Windows Subsystem for Linux (WSL) Linux용 Windows 하위시스템
+      "yellow",//4: Localizations, Internationalizations, and Accessibility 지역화, 국제화 및 접근성
+      "green",//5: IoT, Embedded, Robotics, Appliances 사물인터넷, 임베디드, 로보틱스, 가전
+      "red",//6: Packaging 패키징
+      "blue",//7: Documentations, QA and Bug triage 문서화, 품질 관리 및 버그 분류
+      "silver",//8: Security, Compliance and Kernel 보안, 규정준수 및 커널
+      "peru",//9: Data and AI 데이터와 인공지능
+      "steelblue",//10: Content and Design 컨텐츠와 디지인
+      "coral",//11: Community, Diversity, Local Outreach and Social Context 커뮤니티, 다양성, 지역 사회 협력과 사회적 관점
+    ]
+
+    let ec = new EventCalendar(document.getElementById('schedule_container'), {
+      allDaySlot: false,
+      slotDuration: '00:05:00',
+      height: '90vh',
+      scrollTime: convertTimeToLocalTZ('{{ .Site.Params.timetable.timeStart }}'),
+      date: "{{ .Site.Params.timetable.dateStart }}",
+      nowIndicator: true,
+      resources: [
+        { id: 1, title: 'Intl room' },
+        { id: 2, title: 'Workshop' },
+        { id: 3, title: 'BoF' }
+      ],
+      view: 'resourceTimeGridDay',
+      views: {
+        resourceTimeGridDay: { pointer: true }
+      },
+      eventClick: function (info) {
+        window.location = info.event.extendedProps.url;
+      },
+      events: [
+        {{ range $pages }}
+        {{ if .Params.speakers }}
+          {
+      title: '{{.Title}} - {{range .Params.speakers}}{{.name}};{{end}} ({{.Params.lang}})',
+      start: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" .Date.UTC}}'),
+      end: new Date('{{dateFormat "2006-01-02T15:04:05-07:00" (time .Params.end).UTC}}'),
+      // url: '{{.RelPermalink}}',
+      resourceId: {{.Params.room }},
+      extendedProps: {url: '{{.RelPermalink}}'},
+      backgroundColor: categoryColors[{{.Params.category}}],
+          },
+    {{ end }}
+    {{ end }}
+    ]
+});
+  });
+
+
+</script>
+
+{{ end }}

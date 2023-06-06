@@ -1,0 +1,129 @@
+[learn_more]
+other = "Learn more"
+[featured] 
+other = "Featured sessions"
+[all_sessions] 
+other = "All sessions"
+[more_sessions]
+other = "More sessions"
+[sponsors] 
+other = "Sponsors"
+[become_sponsor]
+other = "Become a sponsor"
+[more_sponsors]
+other = "More sponsors"
+[about]
+other = "About"
+[news]
+other = "News"
+[sessions]
+other = "Sessions"
+[ical_add]
+other = "Add to calendar(*.ics file)"
+[ical_subscribe]
+other = "Subscribe to calendar(webcal)"
+[ical]
+other = "Session schedules calendar"
+[register_now]
+other = "Register now"
+[attendee]
+other = "Attendee"
+[submit_proposal]
+other = "Submit proposal"
+[host_communities]
+other = "Host Communities"
+[more_hosts]
+other = "More host communities"
+[ubuntu_locos]
+other = "Ubuntu Local Communities"
+[other_foss]
+other = "Other Free and Open Source Communities"
+[diamond_sp]
+other = "Diamond Sponsors"
+[gold_sp]
+other = "Gold Sponsors"
+[silver_sp]
+other = "Silver Sponsors"
+[bronze_sp]
+other = "Bronze Sponsors"
+[supporter_sp]
+other = "Supporter Sponsors"
+[infra_sp]
+other = "Event Infrastructure Sponsors"
+[record_sp]
+other = "Video Recording Sponsors"
+[dinner_sp]
+other = "Conference Dinner Sponsor"
+[venue_sp]
+other = "Venue Sponsors"
+[partner_cm]
+other = "Community Partner"
+[name]
+other = "Name"
+[donated_at]
+other = "Purchased donation ticket at"
+[type]
+other = "Type"
+[title]
+other = "Title"
+[language]
+other = "Language"
+[speakers]
+other = "Speakers"
+[session_duration]
+other = "Session duration"
+[details_later]
+other = "Details will be available later"
+[search]
+other = "Search"
+[menu]
+other = "Menu"
+[close_menu]
+other = "Close menu"
+[sponsor_promo_image]
+other = "Get sponsor promotion image"
+[last_update]
+other = "Last update"
+[privacy_policy]
+other = "Privacy policy"
+[tickets]
+other = "Get tickets"
+[gov_partners]
+other = "Government partners"
+[session_promo_image]
+other = "Get session promotion image"
+
+[cat_other]
+other = "Other"
+[cat_desktop]
+other = "Desktop"
+[cat_cloud]
+other = "Cloud and Infrastructure "
+[cat_wsl]
+other = "Windows Subsystem for Linux (WSL)"
+[cat_l10n]
+other = "Localizations, Internationalizations, and Accessibility"
+[cat_iot]
+other = "IoT, Embedded, Robotics, Appliances"
+[cat_packaging]
+other = "Packaging"
+[cat_docs]
+other = "Documentations, QA and Bug triage"
+[cat_sec]
+other = "Security, Compliance and Kernel"
+[cat_data]
+other = "Data and AI"
+[cat_content]
+other = "Content and Design"
+[cat_community]
+other = "Community, Diversity, Local Outreach and Social Context"
+
+[room_intlroom]
+other = "Intl room"
+[room_mid]
+other = "Midsize room 2"
+[room_large]
+other = "Large room"
+
+[join_online]
+other = "Join online"
