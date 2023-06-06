@@ -11,10 +11,9 @@
 {{ end }}
 
 <main>
-  <section class="p-strip--image is-light" style="background-image:url('{{ `/images/venue2.jpg` | relURL }}')">
-    <div class="row">
-      <div class="col-8 p-card--overlay">
-        <img src='{{ "/images/uca22logo_orange.svg" | relURL }}' alt="" width="200em">
+  <section class="p-strip--suru">
+    <div class="row u-vertically-center">
+      <div class="col-8">
         <h1>{{.Title}}</h1>
         <h4>{{.Site.Params.descriptionOnHomepage}}</h4>
         <p>{{.Site.Params.period}}</p>
@@ -22,6 +21,9 @@
         <a href="sessions"><button>{{ i18n "sessions" }}</button></a>
         <a href="online"><button>{{ i18n "join_online" }}</button></a>
         <a href="call-for-proposals"><button>{{ i18n "submit_proposal" }}</button></a>
+      </div>
+      <div class="col-4 u-hide--small u-align--center">
+        <img src='{{ "/images/uca22logo_orange.svg" | relURL }}' alt="">
       </div>
     </div>
   </section>
