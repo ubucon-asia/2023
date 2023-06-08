@@ -1,7 +1,7 @@
 
 ---
-title: "UbuCon Asia 2022 将于韩国首尔举行"
-date: 2022-06-21T23:30:00+09:00
+title: "UbuCon Asia 2023 will be on Surakarta, Indonesia"
+date: 2022-06-08T16:30:00+09:00
 authors:
     - name: Youngbin Han
       bio: Organizer, Ubucon Asia 2022 / Leader, Ubuntu Korea Community 
@@ -13,4 +13,5 @@ authors:
       linklabel: Website
 ---
 
-UbuCon Asia 2022 将于韩国首尔举行，线上与线下参与将同步支持！
+The UbuCon Asia 2023 will be on Surakarta, Indonesia. It will be held at Aula FKIP (Gedung F), UNS from 7th to 8th of October.   
+It will be also a joint event with LibreOffice Conf Asia.
