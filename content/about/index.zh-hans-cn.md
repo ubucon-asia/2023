@@ -6,7 +6,7 @@ UbuCon Asia 是一个由位于亚洲的 Ubuntu 社区组织的活动。
 为参与 Ubuntu、Linux 和其他自由和开放源码技术感兴趣的伙伴而生。
 这是一个让亚洲的 Ubuntu 人互相交流、学习和分享知识的地方。
 
-UbuCon Asia 2022 将是第一次线下的 UbuCon Asia 活动，我们将在韩国首尔的 Nuritkum Square 等待您。
+The 3rd edition of UbuCon Asia will be held at FKIP UNS in Surakarta, Indonesia as a joint event with LibreOffice Conf Asia. Join us 7-8 of October this year to meet Ubuntu people in Asia and vibrant FOSS community in Indonesia!
 
 ## 行为准则
 
@@ -18,90 +18,54 @@ UbuCon Asia 2022 将是第一次线下的 UbuCon Asia 活动，我们将在韩�
 
 ## 组织团队
 
-UbuCon Asia 2022 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos 和其他亚洲 FLOSS 社区的志愿者团队促成的社区活动。
-
+UbuCon Asia 2023 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos 和其他亚洲 FLOSS 社区的志愿者团队促成的社区活动。
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1916739?v=4"
     heading="Youngbin Han" bold="Ubuntu Korea Community"
-    desc="Local/Global team | General, Contents, Web and Video, Sponsorship and Finances, Travel support" >}}
-
-{{<profile
-    profile="https://avatars.githubusercontent.com/u/9061758?v=4"
-    heading="Gyuseok Jung" bold="Ubuntu Korea Community"
-    desc="Local team | General, Web and Video" >}}
-
-{{<profile
-    profile="https://avatars.githubusercontent.com/u/22819926?v=4"
-    heading="Junhyeon Bae" bold="Ubuntu Korea Community"
-    desc="Local team | Sponsorship and Finances" >}}
-
-{{<profile
-    profile="sangkon_han.jpg"
-    heading="Sangkon Han" bold="Ubuntu Korea Community"
-    desc="Local team | Contents" >}}
-
-{{<profile
-    profile="giyeon_bang.jpg"
-    heading="Giyeon Bang" bold="C++ Korea"
-    desc="Local/Global team | General" >}}
-
-{{<profile
-    profile="https://avatars.githubusercontent.com/u/47443508?v=4"
-    heading="Joowon Jung" bold="Ubuntu Korea Community"
-    desc="Local team | Web and video" >}}
-
-{{<profile
-    profile="https://avatars.githubusercontent.com/u/52643858?v=4"
-    heading="Minseong Cho" bold=""
-    desc="Local team | Contents, Marketing" >}}
-
-{{<profile
-    profile="https://avatars.githubusercontent.com/u/3622008?v=4"
-    heading="Jongmin Kim" bold=""
-    desc="Local/Global team | Sponsorship and Finances, Travel support, Marketing" >}}
-
-{{<profile
-    profile="https://avatars.githubusercontent.com/u/73894397?v=4"
-    heading="Vincent Wong" bold=""
-    desc="Global team | Content" >}}
-
-<!-- {{<profile
-    profile="https://avatars.githubusercontent.com/u/1658742?v=4"
-    heading="Hong Phuc Dang" bold="FOSSASIA"
-    desc="Global team | Content, Sponsorship and Finances" >}} -->
-
-{{<profile
-    profile="burgess_chang.jpg"
-    heading="Burgess Chang" bold="KDE Network China"
-    desc="Global team | Web and Video" >}}
-
-{{<profile
-    profile="ravi_bhattarai.jpg"
-    heading="Ravi Bhattarai" bold="FOSS Nepal"
-    desc="Global team | General" >}}
+    desc="Global team | General, Contents, Sponsorship and Finances" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/405473?v=4"
     heading="Khairul Aizat Kamarudzzaman" bold="Ubuntu Malaysia"
-    desc="Global team" >}}
+    desc="Global team | Content, General" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1537173?v=4"
     heading="Masafumi Ohta" bold="Raspberry Pi Japan"
-    desc="Global team | Content, Travel support, Marketing" >}}
+    desc="Global team | Content" >}}
 
 {{<profile
     profile="rudra_saraswat.png"
     heading="Rudra B. Saraswat" bold="Ubuntu Unity"
-    desc="Global team | Content" >}}
-
-{{<profile
-    profile="robbi_nespu.jpg"
-    heading="Robbi Nespu" bold="Debian Malaysia"
-    desc="Global team | Sponsorship and Finances" >}}
+    desc="Global team | Web & Video" >}}
 
 {{<profile
     profile="syazwan.png"
     heading="Muhd Syazwan" bold="Ubuntu Malaysia"
-    desc="Global team" >}}
+    desc="Global team | Web & Video, General" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/236116?v=4"
+    heading="RJ Hsiao" bold=""
+    desc="Global team | Content" >}}
+
+{{<profile
+    profile="ravi_bhattarai.jpg"
+    heading="Ravi Bhattarai" bold="FOSS Nepal"
+    desc="Global team | Content" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/73894397?v=4"
+    heading="Vincent Wong" bold=""
+    desc="Global team | Marketing" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/1897570?v=4"
+    heading="Yudhi Satrio" bold=""
+    desc="Local team | General" >}}
+
+{{<profile
+    profile="https://avatars.githubusercontent.com/u/8587010?v=4"
+    heading="Saputro Aryulianto" bold=""
+    desc="Local team | Sponsorship and Finances" >}}
