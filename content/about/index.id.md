@@ -1,5 +1,5 @@
 ---
-title: "About UbuCon Asia 2022"
+title: "About UbuCon Asia 2023"
 ---
 
 UbuCon Asia is an event organized by Ubuntu Communities in Asia. It’s for everyone who involved with or interested in Ubuntu, Linux and other Free and Open source technologies. It is also a place for Ubuntu people from Asia to connect, learn, and share their knowlegdes each other.

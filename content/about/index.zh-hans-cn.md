@@ -1,5 +1,5 @@
 ---
-title: "关于 UbuCon Asia 2022"
+title: "关于 UbuCon Asia 2023"
 ---
 
 UbuCon Asia 是一个由位于亚洲的 Ubuntu 社区组织的活动。
