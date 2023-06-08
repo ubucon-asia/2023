@@ -53,10 +53,10 @@ languages:
           name: 관광정보
           url: venue-and-travel/tourism
           weight: 25
-        - identifier: visitseoul
+        - identifier: idtravel
           parent: venue-travel-group
-          name: VisitSeoul.net
-          url: https://korean.visitseoul.net
+          name: Wonderful Indonesia
+          url: https://www.indonesia.travel/
           weight: 26
         - identifier: programs-group
           name: 프로그램
@@ -134,10 +134,10 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
-        - identifier: visitseoul
+        - identifier: idtravel
           parent: venue-travel-group
-          name: VisitSeoul.net
-          url: https://english.visitseoul.net/index
+          name: Wonderful Indonesia
+          url: https://www.indonesia.travel/
           weight: 26
         - identifier: programs-group
           name: Programs
@@ -215,10 +215,10 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
-        - identifier: visitseoul
+        - identifier: idtravel
           parent: venue-travel-group
-          name: VisitSeoul.net
-          url: https://english.visitseoul.net/index
+          name: Wonderful Indonesia
+          url: https://www.indonesia.travel/
           weight: 26
         - identifier: programs-group
           name: Program
@@ -296,10 +296,10 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
-        - identifier: visitseoul
+        - identifier: idtravel
           parent: venue-travel-group
-          name: VisitSeoul.net
-          url: https://japanese.visitseoul.net/
+          name: Wonderful Indonesia
+          url: https://www.indonesia.travel/
           weight: 26
         - identifier: programs-group
           name: Programs
@@ -377,10 +377,10 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
-        - identifier: visitseoul
+        - identifier: idtravel
           parent: venue-travel-group
-          name: VisitSeoul.net
-          url: https://tchinese.visitseoul.net/
+          name: Wonderful Indonesia
+          url: https://www.indonesia.travel/
           weight: 26
         - identifier: programs-group
           name: Programs
@@ -458,10 +458,10 @@ languages:
           name: Tourism
           url: venue-and-travel/tourism
           weight: 25
-        - identifier: visitseoul
+        - identifier: idtravel
           parent: venue-travel-group
-          name: VisitSeoul.net
-          url: https://chinese.visitseoul.net/index
+          name: Wonderful Indonesia
+          url: https://www.indonesia.travel/
           weight: 26
         - identifier: programs-group
           name: 会议
