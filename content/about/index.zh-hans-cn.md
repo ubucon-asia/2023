@@ -47,7 +47,7 @@ UbuCon Asia 2023 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/236116?v=4"
-    heading="RJ Hsiao" bold=""
+    heading="RJ Hsiao" bold="Ubuntu Taiwan"
     desc="Global team | Content" >}}
 
 {{<profile
@@ -62,10 +62,10 @@ UbuCon Asia 2023 是一个非营利性的会议，是由亚洲的 Ubuntu LoCos �
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1897570?v=4"
-    heading="Yudhi Satrio" bold=""
+    heading="Yudhi Satrio" bold="GNOME ID, A11y ID"
     desc="Local team | General" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/8587010?v=4"
-    heading="Saputro Aryulianto" bold=""
+    heading="Saputro Aryulianto" bold="OpenInfra Indonesia"
     desc="Local team | Sponsorship and Finances" >}}

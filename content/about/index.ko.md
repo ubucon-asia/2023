@@ -43,7 +43,7 @@ title: "UbuCon Asia 2022 소개"
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/236116?v=4"
-    heading="RJ Hsiao" bold=""
+    heading="RJ Hsiao" bold="Ubuntu Taiwan"
     desc="Global team | Content" >}}
 
 {{<profile
@@ -58,10 +58,10 @@ title: "UbuCon Asia 2022 소개"
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/1897570?v=4"
-    heading="Yudhi Satrio" bold=""
+    heading="Yudhi Satrio" bold="GNOME ID, A11y ID"
     desc="Local team | General" >}}
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/8587010?v=4"
-    heading="Saputro Aryulianto" bold=""
+    heading="Saputro Aryulianto" bold="OpenInfra Indonesia"
     desc="Local team | Sponsorship and Finances" >}}
