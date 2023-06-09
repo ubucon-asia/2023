@@ -3,35 +3,32 @@ title: "Venue & Safety"
 description: Detailed Venue, Health & Safety information
 ---
 
-# Nuritkum Square (Nuri Dream Square)
+# FKIP UNS Surakarta, Indonesia
 
-- Nuritkum Square - Business Tower 3F & 4F
-- Building Address: 396, World Cup buk-ro, Mapo-gu, Seoul, Republic of Korea
-- Address in Korean: 서울특별시 마포구 월드컵북로 396 (상암동, 누리꿈스퀘어)
+- Aula FKIP (Gedung F) UNS, Surakarta, Indonesia
+- Building Address: Jalan Ir. Sutami 36A Surakarta, Indonesia 57126
 
-{{< button text="Google Maps" href="https://goo.gl/maps/Spsht6mD7keffbKx8" icon="external-link" >}}
-{{< button text="OpenStreetMap" href="https://www.openstreetmap.org/?mlat=37.57941&amp;mlon=126.88971#map=19/37.57941/126.88971" icon="external-link" >}}
-{{< button text="Naver Maps" href="https://naver.me/xFpLRHrQ" icon="external-link" >}}
-{{< button text="Kakao Maps" href="https://place.map.kakao.com/26562331" icon="external-link" >}}
+{{< button text="Google Maps" href="https://goo.gl/maps/KKL66PPdZx8KLKis6" icon="external-link" >}}
+{{< button text="OpenStreetMap" href="https://www.openstreetmap.org/way/536480971#map=16/-7.5565/110.8586" icon="external-link" >}}
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=126.88793778419496%2C37.57848146226235%2C126.89147830009462%2C37.58033930167637&amp;layer=mapnik&amp;marker=37.57941038776403%2C126.88970804214478" style="border: 1px solid black"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=110.85452914237976%2C-7.557948352455308%2C110.85703969001771%2C-7.5561110438798655&amp;layer=mapnik&amp;marker=-7.557029699144615%2C110.85578441619873" style="border: 1px solid black"></iframe>
 
-# Inside the venue
-> Indoor map images source: https://nuri.nipa.kr/rt/
+# Campus Map Universitas Sebelas Maret (UNS)
+> FKIP - Number 23 https://uns.ac.id/en/about-uns/campus-map/
 
-![Business Tower 3F Map](./business_tower_3f.png)
-### Business Tower 3F
-- (1) Lobby: Registration & Sponsor booth
-- (2) International Conference Room - For Keynotes and Talks(Lectures)
-  - (2-1) Speaker waiting room
-- (3) Midsize Conference Room 2 - For BoF(Birds of Feathers sessions) and Talks(Lectures)  
-- (4) Midsize Conference Room 1 - Rest area
-- (T) Toilets
+![Aula FKIP Building](./venue1.jpg)
+![Aula FKIP Map](./venue2.jpg)
 
-![Business Tower 4F Map](./business_tower_4f.png)
-### Business Tower 4F
-- (1) Large Conference Room - For Workshops and Talks(Lectures)
-- (T) Toilets
+### Aula FKIP (Gedung F) UNS - 3rd Floor
+- (1) Registration & Sponsor booth
+- (2) Main Room - For Keynotes, Sponsor Talks, Panel Discussion, and Lightning Talks
+- (3) Speaker waiting room
+- (4) Toilets
+
+![Classroom Map](./venue3.jpg)
+### Class Room (Gedung G) UNS - Distance (±)80m from the Main Room
+- (1) Class Room - For Talks (Parallel Class)
+- (2) Toilets
 
 # Getting to the venue
 See [Tourism](../tourism/) page for details.
@@ -46,23 +43,19 @@ To provide safe environment for every participants, We require every participant
 - [Fire/Ambulance: 119](tel:119)
 - [Travel Helpline: 1330](tel:1330)
 
-### Nearby Police stations, Fire stations and Hospitals
+### Nearby Prayer Room, Police stations, Fire stations and Hospitals
 
-#### Sangam Police Substation
+#### Nurul Huda UNS Mosque (±)800m
 
-- [Phone: +82-2-309-9525](tel:+82-2-309-9525)
+- Sebelas Maret University, Kentingan, Jl. Ir Sutami No.36 A, Jebres, Surakarta, Kota Surakarta, Jawa Tengah 57126
 
-{{< button text="Google Maps" href="https://goo.gl/maps/bZi9WPg525dkcwp79" icon="external-link" >}}
-{{< button text="Naver Maps" href="https://naver.me/GSizf4kC" icon="external-link" >}}
-{{< button text="Kakao Maps" href="https://place.map.kakao.com/7925158" icon="external-link" >}}
+{{< button text="Google Maps" href="https://goo.gl/maps/MR9RroYCZKKMQryL6" icon="external-link" >}}
 
-#### Mapo Fire Center - Sangam 119 Safety Center
+#### UNS Campus Church (±)150m
 
-- [Phone: +82-2-309-4119](tel:+82-2-309-4119)
+- UNS Universitas Sebelas Maret, Jalan Ir. Sutami No.36 A, Kentingan, Jebres, Surakarta, Kota Surakarta, Jawa Tengah 57126
 
-{{< button text="Google Maps" href="https://goo.gl/maps/C8hPismiyDZAEgDm7" icon="external-link" >}}
-{{< button text="Naver Maps" href="https://naver.me/G6iuUnb1" icon="external-link" >}}
-{{< button text="Kakao Maps" href="https://place.map.kakao.com/17801430" icon="external-link" >}}
+{{< button text="Google Maps" href="https://goo.gl/maps/ud8hYqfphHFBSFp28" icon="external-link" >}}
 
 #### 24시 열린의원 (24/7 Open clinic)
 - A **local clinic** Located at **basement floor of the venue**
