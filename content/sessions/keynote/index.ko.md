@@ -1,7 +1,7 @@
 ---
-title: "기조연설: Improving FOSS Security"
-date: 2022-11-26T10:30:00+09:00
-end: 2022-11-26T11:15:00+09:00
+title: "(TBD)"
+date: 2023-10-07T10:30:00+09:00
+end: 2023-10-08T11:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 8
 #1: Desktop 데스크탑
@@ -19,25 +19,13 @@ featured: true # If it's true. This session will appear on main page.
 lang: English
 slide: slide.pdf
 speakers: # Speaker info
-    - name: Mark Esler
-      bio: Canonical Security Team에서 보안 유지 관리를 수행, 소프트웨어를 감사, CVE 할당을 관리, 커뮤니티 질문 답변 등 업무를 하고 있습니다.
-      email: mark.esler@canonical.com # Email
-      launchpad: ~eslerm # link to launchpad.net profile
-      github: eslerm  # link to github profile
-      profile: profile.jpeg # Speaker photo
-      linkurl: https://twitter.com/markesler  # Other website link url
-      linklabel: Twitter # Label for linkurl
+    - name: (TBD)
+      bio: (TBD)
+      email: "" # Email
+      launchpad: "~..." # link to launchpad.net profile
+      github: ""  # link to github profile
+      profile: "" # Speaker photo
+      linkurl: ""  # Other website link url
+      linklabel: "" # Label for linkurl
 ---
-
-{{< youtube Oz6_14rT72Q >}}
-
-이 프레젠테이션은 Canonical에서 취약한 소프트웨어를 패치하기 위해 보안 유지 관리를 수행하는 방법을 분석하고 FOSS 프로젝트가 취약성을 공개하고 선제적으로 발견할 수 있는 방법에 대한 조언을 제공합니다.
-
-[발표자 노트가 포함된 슬라이드 보기](https://docs.google.com/presentation/d/1WkdlbJ2JZgYiKUU_Hn6u1mjhmMiobXnBgrw9yJN3DTc/edit#slide=id.g4f424d3cdc_0_578)
-
-
-## 이 세션에서 배울 수 있는 것
-제가 전달하고 싶은 두 가지 핵심 메시지는 프로젝트에서 취약점을 찾아 공개하는 것은 괜찮다는 것과 보안 정책을 작성하는 것입니다. 프레젠테이션에서는 Canonical에서 보안 유지 관리가 수행되는 방법을 소개하고 FOSS 프로젝트가 보안을 강화할 수 있는 방법에 대한 많은 제안을 제공합니다. 자료에 대한 링크는 슬라이드에 제공됩니다.
-
-## 발표자 소개
-Canonical Security Team에서 보안 유지 관리를 수행, 소프트웨어를 감사, CVE 할당을 관리, 커뮤니티 질문 답변 등 업무를 하고 있습니다.
+TBD

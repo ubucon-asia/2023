@@ -1,7 +1,7 @@
 ---
-title: "Keynote: Improving FOSS Security"
-date: 2022-11-26T10:30:00+09:00
-end: 2022-11-26T11:15:00+09:00
+title: "(TBD)"
+date: 2023-10-07T10:30:00+09:00
+end: 2023-10-08T11:15:00+09:00
 room: 1 # 1: Intl room, 2: Workshop, 3: BoF
 category: 8
 #1: Desktop 데스크탑
@@ -19,24 +19,13 @@ featured: true # If it's true. This session will appear on main page.
 lang: English
 slide: slide.pdf
 speakers: # Speaker info
-    - name: Mark Esler
-      bio: I work for Canonical's Security Team to perform security maintenance, audit software, manage CVE assignment, and answer community questions.
-      email: mark.esler@canonical.com # Email
-      launchpad: ~eslerm # link to launchpad.net profile
-      github: eslerm  # link to github profile
-      profile: profile.jpeg # Speaker photo
-      linkurl: https://twitter.com/markesler  # Other website link url
-      linklabel: Twitter # Label for linkurl
+    - name: (TBD)
+      bio: (TBD)
+      email: "" # Email
+      launchpad: "~..." # link to launchpad.net profile
+      github: ""  # link to github profile
+      profile: "" # Speaker photo
+      linkurl: ""  # Other website link url
+      linklabel: "" # Label for linkurl
 ---
-
-{{< youtube Oz6_14rT72Q >}}
-
-This presentation breaks down how Canonical performs security maintenance to patch vulnerable software and offers advice on how FOSS projects can disclose and preemptively discover vulnerabilities.
-
-[See slides with speaker notes](https://docs.google.com/presentation/d/1WkdlbJ2JZgYiKUU_Hn6u1mjhmMiobXnBgrw9yJN3DTc/edit#slide=id.g4f424d3cdc_0_578)
-
-## What audience can learn from this session
-The two key messages I want to convey is that finding and disclosing vulnerabilities in your projects is okay and to write a security policy. The presentation will introduce how security maintenance at Canonical is performed and give many suggestions on how FOSS projects can tighten their security. Links to resources are provided in the slides.
-
-## About the speaker
-I work for Canonical's Security Team to perform security maintenance, audit software, manage CVE assignment, and answer community questions.
+TBD
