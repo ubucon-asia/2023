@@ -13,22 +13,22 @@ description: Detailed Venue, Health & Safety information
 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=110.85452914237976%2C-7.557948352455308%2C110.85703969001771%2C-7.5561110438798655&amp;layer=mapnik&amp;marker=-7.557029699144615%2C110.85578441619873" style="border: 1px solid black"></iframe>
 
-# Campus Map Universitas Sebelas Maret (UNS)
+# Campus Map - UNS (Universitas Sebelas Maret)
 > FKIP - Number 23 https://uns.ac.id/en/about-uns/campus-map/
 
 ![Aula FKIP Building](./venue1.jpg)
 ![Aula FKIP Map](./venue2.jpg)
 
 ### Aula FKIP (Gedung F) UNS - 3rd Floor
-- (1) Registration & Sponsor booth
-- (2) Main Room - For Keynotes, Sponsor Talks, Panel Discussion, and Lightning Talks
-- (3) Speaker waiting room
-- (4) Toilets
+- Registration & Sponsor booth
+- Main Room - For Keynotes, Sponsor Talks, Panel Discussion, and Lightning Talks
+- Speaker waiting room
+- Toilets
 
 ![Classroom Map](./venue3.jpg)
-### Class Room (Gedung G) UNS - Distance (±)80m from the Main Room
-- (1) Class Room - For Talks (Parallel Class)
-- (2) Toilets
+### Class Room (Gedung G) UNS - Distance (±)85m from the Main Room
+- Class Room - For Talks (Parallel Class)
+- Toilets
 
 # Getting to the venue
 See [Tourism](../tourism/) page for details.
@@ -39,45 +39,41 @@ To provide safe environment for every participants, We require every participant
 
 ## Emergency information
 
-- [Police: 112](tel:112)
-- [Fire/Ambulance: 119](tel:119)
-- [Travel Helpline: 1330](tel:1330)
+- [Police: 110](tel:110)
+- [Emergency: 112](tel:112)
+- [Firefighter: 113](tel:113)
+- [Ambulance: 118/119](tel:118)
 
-### Nearby Prayer Room, Police stations, Fire stations and Hospitals
+### Nearby Prayer Room, Police Station, and Hospitals
 
-#### Nurul Huda UNS Mosque (±)800m
-
-- Sebelas Maret University, Kentingan, Jl. Ir Sutami No.36 A, Jebres, Surakarta, Kota Surakarta, Jawa Tengah 57126
+#### Nurul Huda UNS Mosque - (±)800m
+- Sebelas Maret University, Kentingan, Jl. Ir Sutami No.36 A, Jebres, Surakarta City, Central Java 57126
 
 {{< button text="Google Maps" href="https://goo.gl/maps/MR9RroYCZKKMQryL6" icon="external-link" >}}
+{{< button text="OpenStreetMap" href="https://osm.org/go/tbmyIbGJ4?m=&node=3931654630" icon="external-link" >}}
 
-#### UNS Campus Church (±)150m
-
-- UNS Universitas Sebelas Maret, Jalan Ir. Sutami No.36 A, Kentingan, Jebres, Surakarta, Kota Surakarta, Jawa Tengah 57126
+#### UNS Campus Church - (±)150m
+- Sebelas Maret University, Kentingan, Jl. Ir Sutami No.36 A, Jebres, Surakarta City, Central Java 57126
 
 {{< button text="Google Maps" href="https://goo.gl/maps/ud8hYqfphHFBSFp28" icon="external-link" >}}
+{{< button text="OpenStreetMap" href="https://osm.org/go/tbmyIH~oj?m=&way=536320239" icon="external-link" >}}
 
-#### 24시 열린의원 (24/7 Open clinic)
-- A **local clinic** Located at **basement floor of the venue**
-- [Phone: +82-2-2132-2475](tel:+82-2-2132-2475)
+#### Surakarta City Police Station (Polresta Surakarta) - (±)8km
+- Jl. Slamet Riyadi St No.328, Purwosari, Laweyan, Surakarta City, Central Java 57142
+- [Phone: +62-271 712332](tel:+62271712332)
 
-{{< button text="Google Maps" href="https://goo.gl/maps/hjMj7FLCzMmcisJs9" icon="external-link" >}}
-{{< button text="Naver Maps" href="https://naver.me/xKQWWOeW" icon="external-link" >}}
-{{< button text="Kakao Maps" href="https://place.map.kakao.com/1046838438" icon="external-link" >}}
+{{< button text="Google Maps" href="https://goo.gl/maps/B3QkFAQLsZgxEKnSA" icon="external-link" >}}
 
-#### Sevrance Hospital
-- A **General Hospital** located near Shinchon station
-- [Phone: +82-2-337-7582](tel:+82-2-337-7582)
+#### dr. Moewardi Hospital (RSUD dr. Moewardi) - (±)2.5km
+- Jl. Kolonel Sutarto No.132, Jebres, Surakarta City, Central Java 57126
+- [Phone: +62-271634634](tel:+62271634634)
 
-{{< button text="Google Maps" href="https://goo.gl/maps/iw5AtetepvqhbyHp6" icon="external-link" >}}
-{{< button text="Naver Maps" href="https://naver.me/56IDYDOa" icon="external-link" >}}
-{{< button text="Kakao Maps" href="https://place.map.kakao.com/7981165" icon="external-link" >}}
+{{< button text="Google Maps" href="https://goo.gl/maps/HZjg73GFqJFaFAA26" icon="external-link" >}}
+{{< button text="OpenStreetMap" href="https://osm.org/go/tbmyCAwPM--?way=783804599" icon="external-link" >}}
 
-#### Shinchon Yeonsei Hospital
-- A **General Hospital** located near Sogang Univ. station
-- [Phone: +82-2-1599-1004](tel:+82-2-1599-1004)
-- [Phone (from overseas): +82-2-2228-1004](tel:+82-2-2228-1004)
+#### Hermina Hospital Solo - (±)2.6km
+- Jl. Kolonel Sutarto No.16, Jebres, Surakarta City, Central Java 57126 
+- [Phone: +62-271638989](tel:+62271638989)
 
-{{< button text="Google Maps" href="https://goo.gl/maps/mpSsSmv7GjSMMDCP8" icon="external-link" >}}
-{{< button text="Naver Maps" href="https://naver.me/GJrFT2S7" icon="external-link" >}}
-{{< button text="Kakao Maps" href="https://place.map.kakao.com/26822101" icon="external-link" >}}
+{{< button text="Google Maps" href="https://goo.gl/maps/CFG2DJG18Yq9b3gG7" icon="external-link" >}}
+{{< button text="OpenStreetMap" href="https://osm.org/go/tbmnV7crw?m=&way=580005945" icon="external-link" >}}
