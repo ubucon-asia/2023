@@ -1,6 +1,6 @@
 [![Deploy Website](https://github.com/ubucon-asia/2021/workflows/Deploy%20Website/badge.svg)](https://github.com/ubucon-asia/2021/actions?query=workflow%3A%22Deploy+Website%22)
-# 2022
-Ubucon Asia 2022 Website
+# 2023
+Ubucon Asia 2023 Website
 Built with [Hugo](https://gohugo.io) and [Vanilla framework](https://vanillaframework.io/)
 
 # Adding contents
