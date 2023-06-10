@@ -48,11 +48,6 @@ languages:
           name: 근처 숙박시설
           url: venue-and-travel/accommodations
           weight: 24
-        - identifier: tourism
-          parent: venue-travel-group
-          name: 관광정보
-          url: venue-and-travel/tourism
-          weight: 25
         - identifier: idtravel
           parent: venue-travel-group
           name: Wonderful Indonesia
@@ -129,11 +124,6 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
-        - identifier: tourism
-          parent: venue-travel-group
-          name: Tourism
-          url: venue-and-travel/tourism
-          weight: 25
         - identifier: idtravel
           parent: venue-travel-group
           name: Wonderful Indonesia
@@ -210,11 +200,6 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
-        - identifier: tourism
-          parent: venue-travel-group
-          name: Tourism
-          url: venue-and-travel/tourism
-          weight: 25
         - identifier: idtravel
           parent: venue-travel-group
           name: Wonderful Indonesia
@@ -291,11 +276,6 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
-        - identifier: tourism
-          parent: venue-travel-group
-          name: Tourism
-          url: venue-and-travel/tourism
-          weight: 25
         - identifier: idtravel
           parent: venue-travel-group
           name: Wonderful Indonesia
@@ -372,11 +352,6 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
-        - identifier: tourism
-          parent: venue-travel-group
-          name: Tourism
-          url: venue-and-travel/tourism
-          weight: 25
         - identifier: idtravel
           parent: venue-travel-group
           name: Wonderful Indonesia
@@ -453,11 +428,6 @@ languages:
           name: Accomodations
           url: venue-and-travel/accommodations
           weight: 24
-        - identifier: tourism
-          parent: venue-travel-group
-          name: Tourism
-          url: venue-and-travel/tourism
-          weight: 25
         - identifier: idtravel
           parent: venue-travel-group
           name: Wonderful Indonesia
