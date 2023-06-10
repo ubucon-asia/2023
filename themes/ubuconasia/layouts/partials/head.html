@@ -73,7 +73,7 @@
     <!-- Redirect to external website -->
     {{ if .Params.externalRedirect }}
     <script>
-        window.href = "{{.Params.externalRedirect}}";
+        window.location = "{{.Params.externalRedirect}}";
     </script>
     {{ end }}
 
