@@ -38,10 +38,10 @@ languages:
           name: 입국요건과 비자
           url: venue-and-travel/entry-and-visa
           weight: 22
-        - identifier: travel-sponsorship
+        - identifier: travel-grants
           parent: venue-travel-group
           name: 여행 경비 지원
-          url: venue-and-travel/travel-sponsorship
+          url: venue-and-travel/travel-grants
           weight: 23
         - identifier: accommodations
           parent: venue-travel-group
@@ -114,10 +114,10 @@ languages:
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
           weight: 22
-        - identifier: travel-sponsorship
+        - identifier: travel-grants
           parent: venue-travel-group
-          name: Travel sponsorship
-          url: venue-and-travel/travel-sponsorship
+          name: Travel grants
+          url: venue-and-travel/travel-grants
           weight: 23
         - identifier: accommodations
           parent: venue-travel-group
@@ -190,10 +190,10 @@ languages:
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
           weight: 22
-        - identifier: travel-sponsorship
+        - identifier: travel-grants
           parent: venue-travel-group
-          name: Travel sponsorship
-          url: venue-and-travel/travel-sponsorship
+          name: Travel grants
+          url: venue-and-travel/travel-grants
           weight: 23
         - identifier: accommodations
           parent: venue-travel-group
@@ -266,10 +266,10 @@ languages:
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
           weight: 22
-        - identifier: travel-sponsorship
+        - identifier: travel-grants
           parent: venue-travel-group
-          name: Travel sponsorship
-          url: venue-and-travel/travel-sponsorship
+          name: Travel grants
+          url: venue-and-travel/travel-grants
           weight: 23
         - identifier: accommodations
           parent: venue-travel-group
@@ -342,10 +342,10 @@ languages:
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
           weight: 22
-        - identifier: travel-sponsorship
+        - identifier: travel-grants
           parent: venue-travel-group
-          name: Travel sponsorship
-          url: venue-and-travel/travel-sponsorship
+          name: Travel grants
+          url: venue-and-travel/travel-grants
           weight: 23
         - identifier: accommodations
           parent: venue-travel-group
@@ -418,10 +418,10 @@ languages:
           name: Entry requirements and Visa
           url: venue-and-travel/entry-and-visa
           weight: 22
-        - identifier: travel-sponsorship
+        - identifier: travel-grants
           parent: venue-travel-group
-          name: Travel sponsorship
-          url: venue-and-travel/travel-sponsorship
+          name: Travel grants
+          url: venue-and-travel/travel-grants
           weight: 23
         - identifier: accommodations
           parent: venue-travel-group
