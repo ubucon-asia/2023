@@ -72,8 +72,9 @@
 
     <!-- Redirect to external website -->
     {{ if .Params.externalRedirect }}
-    <meta http-equiv="refresh" content="0; url={{.Params.externalRedirect}}">
-    </meta>
+    <script>
+        window.href = "{{.Params.externalRedirect}}";
+    </script>
     {{ end }}
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@event-calendar/build/event-calendar.min.css">
