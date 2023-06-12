@@ -63,5 +63,5 @@ UbuCon Asia 2023 is a not-for-profit conference and a community-driven event mad
 
 {{<profile
     profile="https://avatars.githubusercontent.com/u/8587010?v=4"
-    heading="Saputro Aryulianto" bold="OpenInfra Indonesia"
-    desc="Local team | Sponsorship and Finances" >}}
+    heading="Saputro Aryulianto" bold="OpenStack & OpenInfra Indonesia"
+    desc="Local team | Website, Sponsorship and Finances" >}}
