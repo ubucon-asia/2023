@@ -1,6 +1,6 @@
 ---
 title: "Call for proposals"
-description: "Submit yours by July 15. Ubuntu One account required to submit proposal."
+description: "Submit yours by July 15!"
 externalRedirect: https://cfp.louca.id
 ---
 
