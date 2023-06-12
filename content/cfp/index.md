@@ -1,9 +1,9 @@
 ---
 title: "Call for proposals"
 description: "Submit yours by July 15. Ubuntu One account required to submit proposal."
-externalRedirect: https://events.canonical.com/event/13/abstracts/
+externalRedirect: https://cfp.louca.id
 ---
 
-Redirecting you to Indico...
+Redirecting you to LOUCA Pretalx...
 
-[Click to redirect manually](https://events.canonical.com/event/13/abstracts/)
+[Click to redirect manually](https://cfp.louca.id)
