@@ -59,6 +59,5 @@ The speakers can submit more than one proposal. Don't hesitate to share your ide
 
 Submit your proposal before July, 31 and Thanks a lot for your participation!
 
-## [CFP Submission Page](https://cfp.louca.id/louca-2023/)
-
+{{< button text="Submit your proposal today!" href="/cfp" icon="information" >}}
 
